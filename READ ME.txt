@@ -1,0 +1,17 @@
+readme
+ this is for you guys from cyber security white hat @Unlimited
+install python 2.7
+and run in cmd
+go to destination folder 
+and type python cyberemailbomber.py
+follow these steps
+step 1: enter your gmail address
+step 2:enter your password 
+step 3:enter your victim email
+step 4:enter your message whatever you want
+step 5:enter how many you want to send emails
+step 6:and its done your all messages will be sent!
+Enjoy guys 
+and subscribe and support me guys 
+
+youtube channel:posa veeram
