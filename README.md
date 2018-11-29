@@ -4,26 +4,26 @@
 ##  cmd
 ## any windows or kali linux/os/
  # Explanation:
- How to use in windows 
+### How to use in windows 
 ## step1:
- install python 2.7
+ ### install python 2.7
  ## step 2:
  and run in cmd 
 ##  step3:
- and go to destination folder 
+### and go to destination folder 
  ## step 4
- type python cyberemailbomber.py
+### type python cyberemailbomber.py
 ## step 5
-Enter your gmail address
+### Enter your gmail address
 ## step 6
-Enter your password
+### Enter your password
 after that 
 ## step 7
-enter your victims email
+### enter your victims email
 ## step 8
-enter your how many want to send 
-its done 
-your all message will be sent 
+### enter your how many want to send 
+### its done 
+### your all message will be sent 
 # Linux
 ## download the tool
 ## set the tool file in your Desktop
