@@ -1,4 +1,4 @@
-# Akhil-cyberemail-bomber-
+# Akhil cyber email bomber
 # Requirements :
 ##  python2.7
 ##  cmd
