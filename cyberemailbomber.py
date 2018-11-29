@@ -8,7 +8,7 @@
 #%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # By :                       Cyber Security White Hat Akhil Hacker (VEGETA-LFH)     
 # Fb :                           Posa Venkata Akhil Akhil             
-# Github :                    www.github.com/lamanihani      
+# Github :                      https://github.com/posaveeram
 # Gmail :                       hackerannonymous18@gmail.com  
 ############################################# Import some lib #############################
 import os
