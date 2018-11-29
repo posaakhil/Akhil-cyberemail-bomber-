@@ -24,6 +24,7 @@ after that
 ### enter your how many want to send 
 ### its done 
 ### your all message will be sent 
+see this figure and understand how to do this guys:
 
 
 
@@ -40,3 +41,4 @@ after that
 # iam not responsible for any illegal activities you done this is only educational purpose only!
 # LEGAL NOTICE
 ## THIS SOFTWARE IS PROVIDED FOR EDUCATIONAL USE ONLY! IF YOU ENGAGE IN ANY ILLEGAL ACTIVITY THE AUTHOR DOES NOT TAKE ANY RESPONSIBILITY FOR IT. BY USING THIS SOFTWARE YOU AGREE WITH THESE TERMS.
+#  join our whatsapp channel:Cyber Security White Hat Telegram channel:Hack Store
