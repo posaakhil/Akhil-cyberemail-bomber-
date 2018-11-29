@@ -1,5 +1,5 @@
-readme
- this is for you guys from cyber security white hat @Unlimited
+# readme
+this is for you guys from cyber security white hat @Unlimited
 install python 2.7
 and run in cmd
 go to destination folder 
