@@ -8,7 +8,7 @@
 ## step1:
  ### install python 2.7
  ## step 2:
- and run in cmd 
+ ### and run in cmd 
 ##  step3:
 ### and go to destination folder 
  ## step 4
