@@ -1,5 +1,6 @@
 # Akhil-cyberemail-bomber-
-##Requirements :
+##Headings
+Requirements :
 python2.7
 cmd
 any windows or kali linux/os/
