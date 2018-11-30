@@ -7,7 +7,7 @@
 #%%%%%%%%%%%%%%%%%%%%%%%%%%% Hacked: All the things %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 #%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # By :                       Cyber Security White Hat Akhil Hacker (VEGETA-LFH)     
-# Fb :                           Posa Venkata Akhil Akhil             
+# Fb :                         hacker annonymous 18           
 # Github :                      https://github.com/posaveeram
 # Gmail :                       hackerannonymous18@gmail.com  
 ############################################# Import some lib #############################
