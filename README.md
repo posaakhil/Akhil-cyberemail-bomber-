@@ -26,7 +26,7 @@ after that
 ### your all message will be sent 
 see this figure and understand how to do this guys:
 ![49223145-ecd10280-f403-11e8-817a-17d6ac336c2a](https://user-images.githubusercontent.com/36729836/49369501-8f94c400-f717-11e8-9ab0-833e59619069.jpg)
-![49223147-ee022f80-f403-11e8-9d1b-0a21ffd93593](https://user-images.githubusercontent.com/36729836/49369504-90c5f100-f717-11e8-8d66-13e9fc08cdad.jpg)
+
 
 
 
