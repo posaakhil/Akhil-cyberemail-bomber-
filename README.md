@@ -25,10 +25,10 @@ after that
 ### its done 
 ### your all message will be sent 
 see this figure and understand how to do this guys:
+frist figure:
 ![49223145-ecd10280-f403-11e8-817a-17d6ac336c2a](https://user-images.githubusercontent.com/36729836/49369501-8f94c400-f717-11e8-9ab0-833e59619069.jpg)
-
-
-
+second figure:
+![49223147-ee022f80-f403-11e8-9d1b-0a21ffd93593](https://user-images.githubusercontent.com/36729836/49369661-f87c3c00-f717-11e8-808d-0a418d6c5137.jpg)
 
 
 # Linux
