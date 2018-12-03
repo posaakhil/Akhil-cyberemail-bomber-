@@ -25,9 +25,7 @@ after that
 ### its done 
 ### your all message will be sent 
 see this figure and understand how to do this guys:
-![img_20181129_175808 2](https://user-images.githubusercontent.com/36729836/49223145-ecd10280-f403-11e8-817a-17d6ac336c2a.jpg)
-![img_20181129_181121 1](https://user-images.githubusercontent.com/36729836/49223147-ee022f80-f403-11e8-9d1b-0a21ffd93593.jpg)
-![img_20181129_181034 1](https://user-images.githubusercontent.com/36729836/49223150-ef335c80-f403-11e8-944d-89d197d9f03d.jpg)
+
 
 
 
